@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/miosito/static/css/main.d1b91f8d.css",
+    "main.js": "/miosito/static/js/main.21f0aa78.js",
+    "static/js/453.eca5f793.chunk.js": "/miosito/static/js/453.eca5f793.chunk.js",
+    "index.html": "/miosito/index.html",
+    "main.d1b91f8d.css.map": "/miosito/static/css/main.d1b91f8d.css.map",
+    "main.21f0aa78.js.map": "/miosito/static/js/main.21f0aa78.js.map",
+    "453.eca5f793.chunk.js.map": "/miosito/static/js/453.eca5f793.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d1b91f8d.css",
+    "static/js/main.21f0aa78.js"
+  ]
+}
